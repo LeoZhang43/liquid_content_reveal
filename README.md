@@ -9,7 +9,7 @@
 
 * Clone the repo with
 ```
-git clone https://github.com/LeoZhang43/godRay.git
+git clone https://github.com/LeoZhang43/liquid_content_reveal.git
 ```
 
 # For HTML/CSS/JS
