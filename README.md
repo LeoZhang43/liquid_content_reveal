@@ -1,9 +1,13 @@
+# link
+you can visite the site at[link](https://leozhang43.github.io/liquid_content_reveal/)
+
 # Update diary
 2024.3.23: analysing the JS code 
-* [油膜特效](https://www.notion.so/df779ea50db54efdaa9656fc083acb1c)
+* [note](https://www.notion.so/df779ea50db54efdaa9656fc083acb1c)
 
 # What is this?
-* a backgorund animation of rays, building by CSS
+* a liquid content revel built by WebGL
+* move on the screen to see its feature!
 
 # installation
 
